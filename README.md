@@ -28,7 +28,7 @@ This project demonstrates a lightweight approach.
 
 You can use the production-ready version here:
 
-👉 https://picknar.com/youtube-thumbnail-downloader/
+👉 [YouTube Thumbnail Preview](https://picknar.com/)
 
 ## 📌 Future Improvements
 
